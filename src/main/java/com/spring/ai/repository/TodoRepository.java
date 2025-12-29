@@ -14,4 +14,8 @@ public class TodoRepository {
 		return null;
 	}
 
+	public Todo findByTodo(Todo todo){
+		return null;
+	}
+
 }
